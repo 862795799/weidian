@@ -1,5 +1,0 @@
-<!--pages/sousuo/sousuo.wxml-->
-<view>
-    <input type="text" placeholder="名字"></input>
-    <button >搜索</button>
-</view>

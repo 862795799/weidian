@@ -1,12 +1,9 @@
 {
     "pages": [
-        
         "pages/index/index",
         "pages/chushi/chushi",
         "pages/untils/untils",
-        
         "pages/logs/logs",
-        "pages/sousuo/sousuo",
         "pages/picker/picker"
     ],
     "window": {
@@ -20,7 +17,6 @@
         "selectedColor": "black",
         "borderStyle ": "black",
         "list": [
-          
             {
                 "pagePath": "pages/chushi/chushi",
                 "text": "结果",
@@ -31,7 +27,7 @@
                 "pagePath": "pages/picker/picker",
                 "text": "搜索",
                 "iconPath": "images/zhao2.png",
-                "selectedIconPath": "images/zhao1.png" 
+                "selectedIconPath": "images/zhao1.png"
             }
         ]
     },
