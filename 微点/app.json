@@ -1,0 +1,37 @@
+{
+    "pages": [
+                       
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/untils/untils"
+        
+       
+    ],
+    "window": {
+        "backgroundTextStyle": "black",
+        "navigationBarBackgroundColor": "black",
+        "navigationBarTitleText": "123",
+        "navigationBarTextStyle": "white"
+    },
+    "tabBar": {
+        "color": "#ccc",
+        "selectedColor": "black",
+        "borderStyle ": "black",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "点名",
+                "iconPath": "images/zhao2.png",
+                "selectedIconPath": "images/zhao1.png"
+            },
+            {
+                "pagePath": "pages/logs/logs",
+                "text": "结果",
+                "iconPath": "images/ren2.png",
+                "selectedIconPath": "images/ren1.png"
+            }
+        ]
+    },
+    
+"debug": true
+}

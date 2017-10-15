@@ -1,0 +1,14 @@
+/* pages/untils/untils.wxss */
+.qx {
+ text-align: middle;
+ font-size: 50rpx;
+
+ 
+  
+}
+.sm{
+line-height:100px;  
+margin:100px; 
+font-size: 40rpx;
+  
+}

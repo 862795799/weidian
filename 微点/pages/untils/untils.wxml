@@ -1,0 +1,4 @@
+<!--pages/untils/untils.wxml-->
+<text class='sm'>扫描中。。。。</text>
+<image  style="width: 320px; height: 300px;" src="/images/leida.gif"></image>
+<button class='qx' bindtap='toIndex'>取消</button>

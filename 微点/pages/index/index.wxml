@@ -1,0 +1,14 @@
+<view class="dl">
+    <view  class='title'>
+        <text>登录微点系统</text>
+    </view>
+    <view class="a">
+        <text>登录</text>
+        <input type="numble" placeholder="请输入账号"></input>
+    </view>
+    <view class='a'>
+        <text>密码</text>
+        <input type="numble" placeholder="请输入密码"></input>
+    </view>
+    <button bindtap='toIndex'>登录</button>
+</view>
