@@ -1,10 +1,13 @@
 {
     "pages": [
-        "pages/chushi/chushi",
+        
         "pages/index/index",
+        "pages/chushi/chushi",
         "pages/untils/untils",
+        
         "pages/logs/logs",
-        "pages/sousuo/sousuo"
+        "pages/sousuo/sousuo",
+        "pages/picker/picker"
     ],
     "window": {
         "backgroundTextStyle": "black",
@@ -19,13 +22,13 @@
         "list": [
           
             {
-                "pagePath": "pages/logs/logs",
+                "pagePath": "pages/chushi/chushi",
                 "text": "结果",
                 "iconPath": "images/ren2.png",
                 "selectedIconPath": "images/ren1.png"
             },
             {
-                "pagePath": "pages/sousuo/sousuo",
+                "pagePath": "pages/picker/picker",
                 "text": "搜索",
                 "iconPath": "images/zhao2.png",
                 "selectedIconPath": "images/zhao1.png" 

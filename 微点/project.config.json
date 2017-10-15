@@ -13,7 +13,14 @@
 	"condition": {
 		"weapp": {
 			"current": -1,
-			"list": []
+			"list": [
+				{
+					"id": -1,
+					"name": "picker",
+					"pathName": "pages/picker/picker",
+					"query": ""
+				}
+			]
 		},
 		"search": {
 			"current": -1,

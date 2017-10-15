@@ -1,0 +1,29 @@
+<!--pages/picker/picker.wxml-->
+<view class="section">
+	<view class="section__title">日期:</view>
+	<picker mode="date" value="{{date}}" bindchange="bindDateChange">
+		<view class="picker">
+			当前选择: {{date}}
+		</view>
+	</picker>
+</view>
+
+<view class="section">
+	<view class="section__title">时间:</view>
+	<picker mode="time" value="{{time}}" bindchange="bindTimeChange">
+		<view class="picker">
+		当前选择: {{time}}
+		</view>
+	</picker>
+</view>
+
+<view class='section'>
+	<view class='section_title'>课程</view>
+	<picker mode="" value="{{className}}" bindchange="">
+		<view class="picker">
+		当前选择: {{className}}
+		</view>
+	</picker>
+</view>
+
+<button>导出</button>

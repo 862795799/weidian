@@ -18,7 +18,7 @@ Page({
     toIndex: function () {
         wx.navigateTo({
 
-            url: "../index/index",
+            url: "../untils/untils",
         });
     },
 

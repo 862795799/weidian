@@ -1,5 +1,5 @@
 <!--logs.wxml-->
 <view>点名成功
-<button>查看点名信息</button>
+<button bindtap='toIndex'>查看点名信息</button>
  
 </view>
