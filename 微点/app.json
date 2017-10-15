@@ -1,16 +1,15 @@
 {
     "pages": [
-                       
+        "pages/chushi/chushi",
         "pages/index/index",
+        "pages/untils/untils",
         "pages/logs/logs",
-        "pages/untils/untils"
-        
-       
+        "pages/sousuo/sousuo"
     ],
     "window": {
         "backgroundTextStyle": "black",
         "navigationBarBackgroundColor": "black",
-        "navigationBarTitleText": "123",
+        "navigationBarTitleText": "微点系统",
         "navigationBarTextStyle": "white"
     },
     "tabBar": {
@@ -18,20 +17,20 @@
         "selectedColor": "black",
         "borderStyle ": "black",
         "list": [
-            {
-                "pagePath": "pages/index/index",
-                "text": "点名",
-                "iconPath": "images/zhao2.png",
-                "selectedIconPath": "images/zhao1.png"
-            },
+          
             {
                 "pagePath": "pages/logs/logs",
                 "text": "结果",
                 "iconPath": "images/ren2.png",
                 "selectedIconPath": "images/ren1.png"
+            },
+            {
+                "pagePath": "pages/sousuo/sousuo",
+                "text": "搜索",
+                "iconPath": "images/zhao2.png",
+                "selectedIconPath": "images/zhao1.png" 
             }
         ]
     },
-    
-"debug": true
+    "debug": true
 }

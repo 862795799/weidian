@@ -1,0 +1,9 @@
+/* pages/sousuo/sousuo.wxss */
+view{
+    margin-top: 20px;
+}
+input{
+     border: 1px solid lightgray;
+     margin: 20rpx;
+}
+

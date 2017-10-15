@@ -1,0 +1,6 @@
+<!--pages/chushi/chushi.wxml-->
+
+<image class='v' src="/images/123.jpg"></image>
+<button bindtap='toIndex'>
+开始点名
+</button>

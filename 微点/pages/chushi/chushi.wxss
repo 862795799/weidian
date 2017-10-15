@@ -1,0 +1,7 @@
+/* pages/chushi/chushi.wxss */
+button{
+    margin-top: 313rpx;
+}
+.v{
+    padding-top: 50rpx;
+}

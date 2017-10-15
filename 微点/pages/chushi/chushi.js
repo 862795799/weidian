@@ -1,4 +1,4 @@
-// pages/untils/untils.js
+// pages/chushi/chushi.js
 Page({
 
     /**
@@ -11,26 +11,22 @@ Page({
     /**
      * 生命周期函数--监听页面加载
      */
+    onLoad: function (options) {
+
+    },
+
     toIndex: function () {
-        wx.showModal({
-            title: '提示',
-            content: '点名成功',
-            showCancel: false,
-            success: function (res) {
-                if (res.confirm) {
-                    console.log('用户点击确定')
-                    wx.reLaunch({
-                        url: '../logs/logs',
-                    })
-                }
-            }
-        })
+        wx.navigateTo({
+
+            url: "../index/index",
+        });
     },
 
     /**
      * 生命周期函数--监听页面初次渲染完成
      */
     onReady: function () {
+
 
     },
 
