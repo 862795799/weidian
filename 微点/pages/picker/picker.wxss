@@ -1,0 +1,19 @@
+/* pages/picker/picker.wxss */
+page{
+	background-color: #F8F8F8;
+	font-size: 20px;
+}
+
+.section{
+	line-height: 40px;
+	text-indent: 20px;
+}
+
+.picker{
+	background-color: white;
+}
+
+button{
+	background-color: #00CCFF;
+	margin-top: 10px;
+}

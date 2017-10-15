@@ -3,14 +3,14 @@
                        
         "pages/index/index",
         "pages/logs/logs",
-        "pages/untils/untils"
-        
+        "pages/untils/untils",
+        "pages/picker/picker"
        
     ],
     "window": {
         "backgroundTextStyle": "black",
         "navigationBarBackgroundColor": "black",
-        "navigationBarTitleText": "123",
+        "navigationBarTitleText": "微点系统",
         "navigationBarTextStyle": "white"
     },
     "tabBar": {
